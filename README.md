@@ -20,4 +20,19 @@ NEL: {"report_to":"cf-nel","max_age":604800}\
 Server: cloudflare\
 CF-RAY: 5e672add7e7e7441-IAD
 
-[{"name":"IoT based weather station","url":"https://ieeexplore.ieee.org/document/7988038/"},{"name":"Flow based environmental monitoring for smart cities","url":"https://ieeexplore.ieee.org/document/8125882"},{"name":"9gag","url":"https://9gag.com/"},{"name":"Cloudflare Workers","url":"https://developers.cloudflare.com/workers/"}]
+[{"name":"IoT based weather station","url":"https://ieeexplore.ieee.org/document/7988038/"},{"name":"Flow based environmental monitoring for smart cities","url":"https://ieeexplore.ieee.org/document/8125882"},{"name":"9gag","url":"https://9gag.com/"},{"name":"Cloudflare&nbsp;Workers","url":"https://developers.cloudflare.com/workers/"}]
+
+# Results for www.amazon.com
+<img src="https://github.com/sneh0304/cloudflare-systems/blob/main/amazon.png"/>
+
+# Results for www.google.com
+<img src="https://github.com/sneh0304/cloudflare-systems/blob/main/google.png"/>
+
+# Results for www.cloudflare.com
+<img src="https://github.com/sneh0304/cloudflare-systems/blob/main/cloudflare.png"/>
+
+# Results for general_assignment
+<img src="https://github.com/sneh0304/cloudflare-systems/blob/main/cloudflare-test.snehashish.workers.dev.png"/>
+
+# Results for links
+<img src="https://github.com/sneh0304/cloudflare-systems/blob/main/links.png"/>
